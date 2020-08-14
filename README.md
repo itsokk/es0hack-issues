@@ -2,7 +2,7 @@
 
 > info
 
-esohack is a cient i started because im on holiday and have nothing to do. i also want to use it as a learning experience. 
+esohack is a client i started because im on holiday and have nothing to do. i also want to use it as a learning experience. 
 this repo is just for bugs/feature requests (read below), as i would like to keep the project closed source until i decide to stop working on it.
 
 > bugs/feature requests
